@@ -1,0 +1,21 @@
+#i_am_a_div
+{
+    width: 100%;
+}
+#Instructions
+{
+    float: right;
+}
+#tittle
+{
+    float: left;
+}
+.footer
+{
+    background-color: grey;
+    color: white;
+    line-height: 2;
+    margin-bottom: 0px;
+    bottom: 0px;
+    position: sticky;
+}
